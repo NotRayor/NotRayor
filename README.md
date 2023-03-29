@@ -3,6 +3,7 @@
 
 안녕하세요. 개발자 지망생 최지호 입니다. 자세한 사항은 📋[이력서](https://www.notion.so/Choi-jiho-4d1413288a9d4cebbbe6b57381887264) (2021 ~ ing)를 확인해주세요.
 
+https://github.com/choijiho0021 업무용 깃허브
 
 ![NotRayor's github stats](https://github-readme-stats.vercel.app/api?username=NotRayor&show_icons=true)
 ### Online Judge 💻
